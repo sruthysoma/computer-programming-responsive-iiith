@@ -1,4 +1,5 @@
 #/bin/bash
+hi
 # Backup Script for Computer Programming Lab
 
 # Backup Script takes the backup of the database used by the lab.
